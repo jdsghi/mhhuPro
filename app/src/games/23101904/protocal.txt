@@ -1,33 +1,74 @@
-We are committed to protecting your privacy
+Privacy Policy for Offline Table Generator App
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.&nbsp;
+Introduction
 
-Information Collected
+Welcome to the Offline Table Generator app, your tool for generating multiplication tables offline. At Offline Table Generator, we respect your privacy and are committed to providing a secure experience for all users. This Privacy Policy outlines our app's data handling practices.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, or email address, together with data about your use of the game. Other information that may be needed from time to time to process a request may also be collected as indicated on the game.
+This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-We may use Ads if the app is free, this may process some of your data like : AAID, ROM version, EMUI version, Screen height, Screen width, App package name, app version, Analytics SDK name,...
+If you choose to use our Service, you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Information Use
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Romantic love quotes unless otherwise defined in this Privacy Policy.
 
-We use the information collected primarily to process the task for which you visited the game. Data collected is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.
+Information Collection and Use
 
-Original Developer
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Name, Email Address. The information that we request will be retained by us and used as described in this privacy policy.
 
-This game is a proprietary code created by Gradle Code, Entity (JACOB SERVICES LLC), the distribution of this code  should respect and not change this part. Removing this part on the privacy is ILLEGAL, and JACOB SERVICES get all rights to report and suspend all collaboration with the distributer.
+The app does use third-party services that may collect information used to identify you.
 
-Disclosing Information
+Link to the privacy policy of third party service providers used by the app
 
-We do not disclose any personal information obtained about you from this game to third parties unless you permit us to do so by ticking the relevant boxes in registration or competition forms. We may also use the information to keep in contact with you and inform you of developments associated with us. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.&nbsp;
+§   Google Play Services
 
-We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our game, but we will not use any information that could identify those individuals.&nbsp;
+§   AdMob
 
-In addition Dummy may work with third parties for the purpose of delivering targeted behavioural advertising to the Dummy game. Through the use of  anonymous information about your use of our game, will be used to provide more relevant adverts about services of interest to you.
+§   Google Analytics for Firebase
 
-Changes to this Policy
+Log Data
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our policy. We will take reasonable steps to draw your attention to any changes in our policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-Contacting Us
+Cookies
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at :
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You can either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+§   To facilitate our Service;
+
+§   To provide the Service on our behalf;
+
+§   To perform Service-related services; or
+
+§   To assist us in analyzing how our Service is used.
+
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+We value your trust in providing us with your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions.
+
+In-app updates 
+
+We use in-app updates to provide our users with the latest features and improvements to our app. During the in-app update process, we may collect information about your device, including your device model, operating system version, and app version. This information is collected to ensure that we provide you with the correct version of the app for your device. We do not collect any personal information during the in-app update process.
+
+Changes to this Privacy Policy
+
+Updates: We may update this Privacy Policy to reflect changes in our practices or for legal and regulatory reasons. Users will be informed of significant changes through app updates or other appropriate means.
+
+Contact Us
+
+If you have any questions or concerns regarding our Privacy Policy or Offline Table Generator App, please feel free to contact us at quomrquf12@gmail.com.
+
